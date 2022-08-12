@@ -47,7 +47,7 @@ Com o intuito de sanar eventuais dúvidas vou especificar o sentido de alguns te
     - Terno seco
     - Milhar seco
 - Seco: Referece a resultados exatos,  populamente chamado de "_na cabeça_". 
-- Partida: Referece aos 5 resultados diários publicados no site fonte dos dados.
+- Partida: Referece aos 05 resultados diários publicados no site fonte dos dados.
     - PTM
     - PT
     - PTV
